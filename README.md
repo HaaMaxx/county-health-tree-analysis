@@ -40,14 +40,14 @@ This project applies decision tree models to analyze county-level public health 
 
 ## 📎 Data Source
 
-- [County Health Rankings & Roadmaps](https://www.countyhealthrankings.org/)
+The dataset (`countyhealth_dataset.csv`) is adapted from the publicly available County Health Rankings data, compiled by the [University of Wisconsin Population Health Institute](https://www.countyhealthrankings.org/). Variables were selected and preprocessed for the purpose of this course project.
+
 
 ---
 
 ## ✍️ Author
 
 **Xinyue Ha**  
-MS in Statistics, Washington University in St. Louis  
-📧 ha.xinyue@email.com  
-🔗 [GitHub](https://github.com/HaaMaxx)
+MA in Statistics, Washington University in St. Louis  
+🔗 [LinkedIn](www.linkedin.com/in/xinyue-ha-a0955b351) | 📧 xinyue.ha0236@gmail.com
 
